@@ -20,6 +20,7 @@ import sys
 install_requires = [
     'portpicker',
     'pyyaml',
+    'ipython',
     'typing_extensions>=4.1.1; python_version<"3.8"',
 ]
 
